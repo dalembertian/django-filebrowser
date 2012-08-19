@@ -1,0 +1,4 @@
+include filebrowser/LICENSE
+recursive-include filebrowser/templates *
+recursive-include filebrowser/media *
+recursive-include filebrowser/locale *
